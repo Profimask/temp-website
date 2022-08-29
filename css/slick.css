@@ -1,4 +1,6 @@
-/* Slick Slider */
+body{
+background: linear-gradient(60deg, #71b7e6, #9b59b6);
+}
 .slick-slider {
     position: relative;
     display: block;
